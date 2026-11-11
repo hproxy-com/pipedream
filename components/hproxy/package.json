@@ -1,0 +1,18 @@
+{
+  "name": "@pipedream/hproxy",
+  "version": "0.1.0",
+  "description": "Pipedream HProxy Components",
+  "main": "hproxy.app.mjs",
+  "keywords": [
+    "pipedream",
+    "hproxy"
+  ],
+  "homepage": "https://pipedream.com/apps/hproxy",
+  "author": "Pipedream <support@pipedream.com> (https://pipedream.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^3.4.0"
+  }
+}
